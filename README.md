@@ -1,0 +1,2 @@
+# traintimetablebot
+次の電車の時刻を教えてくれるSlackBOT
